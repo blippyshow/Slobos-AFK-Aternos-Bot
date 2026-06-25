@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "blippyshows_server.aternos.me",
-    "port": ,
-    "version": "1.21.8",
+    "port": "15343" ,
+    "version": "",
     "try-creative": false
   },
   "position": {
